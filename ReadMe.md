@@ -20,6 +20,6 @@ This is a notes taking repository which will have code and my understanding of t
 10. [Chapter 10: Maps, Hash Tables, and Skip Lists](Chapter_10_Maps_Hash_Tables_and_Skip_Lists/docs/ReadMe.md "Chapter 10: Maps, Hash Tables, and Skip Lists")
 11. [Chapter 11: Search Trees](Chapter_11_Search_Trees/docs/ReadMe.md "Chapter 11: Search Trees")
 12. [Chapter 12: Sorting and Selection](Chapter_12_Sorting_and_Selection/docs/ReadMe.md "Chapter 12: Sorting and Selection")
-13. [Chapter 13: Text Processing](Chapter_13_ Text_Processing/docs/ReadMe.md "Chapter 13: Text Processing")
+13. [Chapter 13: Text Processing](Chapter_13_Text_Processing/docs/ReadMe.md "Chapter 13: Text Processing")
 14. [Chapter 14: Graph Algorithms](Chapter_14_Graph_Algorithms/docs/ReadMe.md "Chapter 14: Graph Algorithms")
 15. [Chapter 15: Memory Management and B-Trees](Chapter_15_Memory_Management_B-Trees/docs/ReadMe.md "Chapter 15: Memory Management and B-Trees")
