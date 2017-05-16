@@ -9,7 +9,7 @@ This is a notes taking repository which will have code and my understanding of t
 ## References ##
 
 1. [Chapter 1: Python Primer](Chapter_01_Python_Primer/docs/ReadMe.md "Chapter 1: Python Primer")
-2. [Chapter 2: Object-Oriented Programming](Chapter_02_Object_Oriented_Programming/docs/ReadMe.md "Chapter 1: Python Primer")
+2. [Chapter 2: Object-Oriented Programming](Chapter_02_Object_Oriented_Programming/docs/ReadMe.md "Chapter 2: Object-Oriented Programming")
 3. [Chapter 3: Algorithm Analysis](Chapter_03_Algorithm_Analysis/docs/ReadMe.md "Chapter 3: Algorithm Analysis")
 4. [Chapter 4: Recursion](Chapter_04_Recursion/docs/ReadMe.md "Chapter 4: Recursion")
 5. [Chapter 5: Array-Based Sequences](Chapter_05_Array_Based_Sequences/docs/ReadMe.md "Chapter 5: Array-Based Sequences")
