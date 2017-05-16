@@ -7,3 +7,19 @@ This is a notes taking repository which will have code and my understanding of t
 
 
 ## References ##
+
+1. [Chapter 1: Python Primer](Chapter_01_Python_Primer/docs/ReadMe.md "Chapter 1: Python Primer")
+2. [Chapter 2: Object-Oriented Programming](Chapter_02_Object_Oriented_Programming/docs/ReadMe.md "Chapter 1: Python Primer")
+3. [Chapter 3: Algorithm Analysis](Chapter_03_Algorithm_Analysis/docs/ReadMe.md "Chapter 3: Algorithm Analysis")
+4. [Chapter 4: Recursion](Chapter_04_Recursion/docs/ReadMe.md "Chapter 4: Recursion")
+5. [Chapter 5: Array-Based Sequences](Chapter_05_Array_Based_Sequences/docs/ReadMe.md "Chapter 5: Array-Based Sequences")
+6. [Chapter 6: Stacks, Queues, and Deques](Chapter_06_Stacks,_Queues,_Deques/docs/ReadMe.md "Chapter 6: Stacks, Queues, and Deques")
+7. [Chapter 7: Linked Lists](Chapter_07_Linked_Lists/docs/ReadMe.md "Chapter 7: Linked Lists")
+8. [Chapter 8: Trees](Chapter_08_Trees/docs/ReadMe.md "Chapter 8: Trees")
+9. [Chapter 9: Priority Queues](Chapter_09_Priority_Queues/docs/ReadMe.md "Chapter 9: Priority Queues")
+10. [Chapter 10: Maps, Hash Tables, and Skip Lists](Chapter_10_Maps, Hash Tables, and Skip Lists/docs/ReadMe.md "Chapter 10: Maps, Hash Tables, and Skip Lists")
+11. [Chapter 11: Search Trees](Chapter_11_Search_Trees/docs/ReadMe.md "Chapter 11: Search Trees")
+12. [Chapter 12: Sorting and Selection](Chapter_12_Sorting_and_Selection/docs/ReadMe.md "Chapter 12: Sorting and Selection")
+13. [Chapter 13: Text Processing](Chapter_13_ Text_Processing/docs/ReadMe.md "Chapter 13: Text Processing")
+14. [Chapter 14: Graph Algorithms](Chapter_14_Graph_Algorithms/docs/ReadMe.md "Chapter 14: Graph Algorithms")
+15. [Chapter 15: Memory Management and B-Trees](Chapter_15_Memory_Management_B-Trees/docs/ReadMe.md "Chapter 15: Memory Management and B-Trees")
