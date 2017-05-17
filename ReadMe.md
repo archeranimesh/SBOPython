@@ -5,6 +5,10 @@ I am following the [Safari Book's Data Structures and Algorithms in Python](http
 
 This is a notes taking repository which will have code and my understanding of the course. Kindly mail me if there an issue with copyright will try to remove it.
 
+## Preface ##
+
+The basic building block of Object Oriented programming is the idea of encapsulating the data with the method which access and modifies them. **Abstract Data Type** confirms on this view, where we encapsulate both data and the methods which operates on the data. **ADT** can be implemented in multiple ways with each way having a pros and cons. We have to weigh these pros and cons of a particular implementation before using a particular implementation.
+
 
 ## References ##
 
